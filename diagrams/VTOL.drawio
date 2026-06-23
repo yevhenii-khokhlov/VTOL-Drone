@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Сторінка-1" id="u1z5Diz0ITvN-HJJzKYH">
+    <mxGraphModel dx="2054" dy="1036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Оператор / Наземна станція" vertex="1">
+          <mxGeometry height="60" width="500" x="160" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-22" edge="1" parent="1" source="QYgwd9PIrosxAhyrzUNW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QYgwd9PIrosxAhyrzUNW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Планування місії" vertex="1">
+          <mxGeometry height="60" width="500" x="164" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-23" edge="1" parent="1" source="QYgwd9PIrosxAhyrzUNW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QYgwd9PIrosxAhyrzUNW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Передача маршруту в автопілот" vertex="1">
+          <mxGeometry height="60" width="500" x="164" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-24" edge="1" parent="1" source="QYgwd9PIrosxAhyrzUNW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QYgwd9PIrosxAhyrzUNW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Передпольотна перевірка систем" vertex="1">
+          <mxGeometry height="60" width="500" x="164" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Вертикальний зліт" vertex="1">
+          <mxGeometry height="60" width="500" x="164" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-26" edge="1" parent="1" source="QYgwd9PIrosxAhyrzUNW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QYgwd9PIrosxAhyrzUNW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Набір висоти" vertex="1">
+          <mxGeometry height="60" width="500" x="160" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-27" edge="1" parent="1" source="QYgwd9PIrosxAhyrzUNW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QYgwd9PIrosxAhyrzUNW-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Перехід у горизонтальний політ" vertex="1">
+          <mxGeometry height="60" width="500" x="164" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-28" edge="1" parent="1" source="QYgwd9PIrosxAhyrzUNW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QYgwd9PIrosxAhyrzUNW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Відпрацювання маршруту" vertex="1">
+          <mxGeometry height="60" width="500" x="164" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-29" edge="1" parent="1" source="QYgwd9PIrosxAhyrzUNW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QYgwd9PIrosxAhyrzUNW-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Збір відео та теплових даних" vertex="1">
+          <mxGeometry height="60" width="500" x="164" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-30" edge="1" parent="1" source="QYgwd9PIrosxAhyrzUNW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QYgwd9PIrosxAhyrzUNW-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Передача даних на наземну станцію" vertex="1">
+          <mxGeometry height="60" width="500" x="164" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-31" edge="1" parent="1" source="QYgwd9PIrosxAhyrzUNW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QYgwd9PIrosxAhyrzUNW-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Повернення на базу" vertex="1">
+          <mxGeometry height="60" width="500" x="164" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-32" edge="1" parent="1" source="QYgwd9PIrosxAhyrzUNW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="QYgwd9PIrosxAhyrzUNW-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Перехід у VTOL-режим" vertex="1">
+          <mxGeometry height="60" width="500" x="164" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Вертикальна посадка" vertex="1">
+          <mxGeometry height="60" width="500" x="164" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Обробка та збереження даних" vertex="1">
+          <mxGeometry height="60" width="500" x="160" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-21" edge="1" parent="1" source="QYgwd9PIrosxAhyrzUNW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.486;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" target="QYgwd9PIrosxAhyrzUNW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-25" edge="1" parent="1" source="QYgwd9PIrosxAhyrzUNW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.516;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="QYgwd9PIrosxAhyrzUNW-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QYgwd9PIrosxAhyrzUNW-33" edge="1" parent="1" source="QYgwd9PIrosxAhyrzUNW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.516;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" target="QYgwd9PIrosxAhyrzUNW-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
