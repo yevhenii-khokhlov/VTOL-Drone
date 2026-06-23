@@ -10,6 +10,22 @@
 
 Проєкт присвячено розробці концепту промислового безпілотного літального апарата вертикального зльоту та посадки (VTOL) для інспекції сонячних електростанцій, трубопроводів та інших протяжних об'єктів інфраструктури. Концепція орієнтована на поєднання тривалого крейсерського польоту, цифрової передачі відеосигналу, RTK-навігації та безпечної роботи в напівавтоматичному й автоматичному режимах.
 
+## Коротка зведена таблиця обладнання
+
+| Модуль | Рекомендований варіант |
+|---|---|
+| Відео- та керуючий зв’язок | Herelink HD Video Transmission System |
+| Автопілот | Pixhawk 6X або сумісний клас |
+| Додатковий комп’ютер | Raspberry Pi 5, 8 GB |
+| Основна RGB-камера | DJI Zenmuse X7 або Sony Alpha / Sony RX0 клас |
+| Інфрачервона камера | DJI Zenmuse H20T або Kurbas-256 (Odd Systems) |
+| Вертикальні мотори | T-Motor AT4125 KV250 |
+| Маршовий мотор | T-Motor class 28xx–35xx або AT4125 KV250 |
+| Сервоприводи | MKS HV9930 або Savox SB-2270SG |
+| Акумулятор | Tattu 8S LiPo 16000 mAh 25C |
+| ESC | T-Motor AT195A 6–14S |
+| BEC / DC-DC | 5V стабілізатор для Raspberry Pi 5 |
+
 ## Технічні вимоги
 
 | Параметр | Вимога |
@@ -36,7 +52,9 @@ VTOL-Drone/
 │   ├── market-analysis.md       # Аналіз ринкових аналогів
 │   ├── justification.md         # Обґрунтування доцільності розробки
 │   ├── report-structure.md      # Структура звіту для Google Docs
-│   └── comparison-table.md      # Зведена таблиця ТТХ
+│   ├── comparison-table.md      # Зведена таблиця ТТХ
+│   ├── equipment-specification.md # Специфікація обладнання
+│   └── thrust-and-energy-balance.md # Розрахунок тяги та енергобалансу
 ├── cad/                         # CAD-файли
 ├── diagrams/                    # Схеми Draw.io
 ├── images/                      # Ескізи та рендери
@@ -56,6 +74,8 @@ VTOL-Drone/
 | 6 | Схеми у Draw.io | ✅ Готово | [diagrams/VTOL.drawio](diagrams/VTOL.drawio) |
 | 7 | Звіт у Google Docs | ⏳ Виконується | *(посилання нижче)* |
 | 8 | Список використаних джерел | ✅ Готово | [references/sources.md](references/sources.md) |
+| 9 | Специфікація обладнання | ✅ Готово | [docs/equipment-specification.md](docs/equipment-specification.md) |
+| 10 | Розрахунок тяги та енергобалансу | ⏳ Виконується | [docs/thrust-and-energy-balance.md](docs/thrust-and-energy-balance.md) |
 
 ## Зовнішні матеріали
 
@@ -75,6 +95,8 @@ VTOL-Drone/
 - [Аналіз ринкових аналогів](docs/market-analysis.md)
 - [Обґрунтування доцільності](docs/justification.md)
 - [Структура звіту](docs/report-structure.md)
+- [Специфікація обладнання](docs/equipment-specification.md)
+- [Розрахунок тяги та енергобалансу](docs/thrust-and-energy-balance.md)
 - [Список джерел](references/sources.md)
 
 ---
